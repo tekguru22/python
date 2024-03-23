@@ -1,0 +1,8 @@
+
+ 
+ hello
+  i am here to learn the git and github
+  now here  i am adding more text in to conform ti updates
+ git remote add origin https://github.com/tekguru22/OpenCv.git
+git branch -M main
+git push -u origin main
